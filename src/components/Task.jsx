@@ -12,7 +12,7 @@ export default function Task({
       className={`list-item ${state}`}
       role="listitem"
       aria-label={`task-${id}`}
-      style={{ background: "#ccc" }}
+    // style={{ background: "#ccc" }}
     >
       <label
         htmlFor="checked"
